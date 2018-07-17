@@ -20,5 +20,10 @@ function johnLennonFacts(array)
 }
 function iLoveTheBeatles(n)
 {
-  
+  var array = []
+  do
+  {
+    
+  }
+  while (n < 15);
 }
